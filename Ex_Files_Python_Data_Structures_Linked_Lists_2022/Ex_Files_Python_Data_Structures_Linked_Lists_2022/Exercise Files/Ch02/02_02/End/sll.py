@@ -24,3 +24,4 @@ class SLLNode:
         """Replace the existing value of the self.next attribute with new_next
         parameter."""
         self.next = new_next
+
